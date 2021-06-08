@@ -8,6 +8,7 @@ authors = ["Dimitris <dstrants@gmail.com>"]
 python = "^3.9"
 requests = "^2.25.1"
 pydantic = "^1.8.2"
+pendulum = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 
