@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "with_coffee_py_v2"
+version = "0.1.0"
+description = ""
+authors = ["Dimitris <dstrants@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.1"
+pydantic = "^1.8.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
